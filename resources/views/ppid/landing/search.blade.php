@@ -6,7 +6,7 @@
         <div class="row gx-0 mb-4 mb-lg-5">
             <div class="px-3 py-3 text-start">
                 <div class="row d-flex justify-content-end">
-                    <label class="fs-4 fw-bold">Pencarian Konten</label>
+                    <label class="fs-4 fw-bold">Pencarian Konten..</label>
                 </div>
             </div>
             <div class="px-3 py-3">
